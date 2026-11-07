@@ -3,6 +3,7 @@
 [![Power BI](https://shields.io)](https://microsoft.com)
 [![GitHub](https://shields.io)](https://github.com)
 
+
 ## 🎯 Objetivo do Projeto
 Este projeto analisa o comportamento dos usuários na plataforma Steam durante o ano de 2026. O foco principal é identificar os jogos dominantes do mercado, compreender a evolução temporal da atividade dos jogadores (sazonalidade) e destacar as tendências emergentes no cenário de games globais.
 
