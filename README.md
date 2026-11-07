@@ -1,18 +1,14 @@
 # Steam Gaming Analytics 2026
 
-[![Power BI](https://shields.io)](https://microsoft.com)
-[![GitHub](https://shields.io)](https://github.com)
-
-
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 Este projeto analisa o comportamento dos usuários na plataforma Steam durante o ano de 2026. O foco principal é identificar os jogos dominantes do mercado, compreender a evolução temporal da atividade dos jogadores (sazonalidade) e destacar as tendências emergentes no cenário de games globais.
 
-### ❓ Pergunta Central
+### Pergunta Central
 > **Quais jogos dominam a Steam em 2026, como a atividade dos jogadores evolui ao longo dos meses e quais tendências podemos identificar a partir desses dados?**
 
 ---
 
-## 📋 Escopo das Análises
+## Escopo das Análises
 
 O projeto foi segmentado em cinco grandes vertentes analíticas:
 
@@ -26,7 +22,7 @@ O projeto foi segmentado em cinco grandes vertentes analíticas:
 
 ---
 
-## 🗃️ Estrutura do Modelo de Dados
+## Estrutura do Modelo de Dados
 
 O projeto conta com um modelo relacional desenvolvido diretamente via **Power Query** e **Power BI**, estruturado da seguinte forma:
 
@@ -36,7 +32,7 @@ O projeto conta com um modelo relacional desenvolvido diretamente via **Power Qu
 
 ---
 
-## 🌐 Fontes de Dados
+## Fontes de Dados
 
 As extrações de dados foram baseadas em três plataformas de monitoramento consolidadas:
 
@@ -46,7 +42,7 @@ As extrações de dados foram baseadas em três plataformas de monitoramento con
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
